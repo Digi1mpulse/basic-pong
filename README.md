@@ -1,5 +1,6 @@
 # basic-pong
 Created to introduce myself to love2d. (https://love2d.org/)
+
 Created By: Rey Garcia
 
 How to run
